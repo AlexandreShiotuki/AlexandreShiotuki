@@ -22,6 +22,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercelapp.co/?username=AlexandreShiotuki&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+---
+
 ### 🚀 Projeto em Destaque
 
 | Projeto | Descrição | Link |
