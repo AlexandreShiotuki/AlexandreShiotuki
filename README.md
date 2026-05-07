@@ -40,7 +40,11 @@ Linguagens e ferramentas que domino atualmente
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlexandreShiotuki&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexandreShiotuki&layout=compact&langs_count=7&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreShiotuki&layout=compact&langs_count=7&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreShiotuki&theme=radical" />
 </p>
 
 ---
