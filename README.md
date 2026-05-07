@@ -1,8 +1,6 @@
-
 # Olá, eu sou o Alexandre Shiotuki! 👋
 
 ## Estudante de Ciência da Computação - Unesp (IBILCE)
-
 
 ---
 
@@ -33,8 +31,6 @@ Linguagens e ferramentas que domino atualmente
 | **Plataforma educacional de robótica** | Plataforma gratuita que visa democratizar o acesso de ensino de robótica  programação no geral | [Acessar Projeto 🔗](https://plataforma-athena-lab-react.vercel.app/) |
 
 ---
-
-### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexandreShiotuki&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
