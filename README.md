@@ -1,20 +1,18 @@
 # Olá, eu sou o Alexandre Shiotuki! 👋
 
-## Estudante de Ciência da Computação - Unesp (IBILCE)
+### 🎓 Estudante de Ciência da Computação na UNESP (IBILCE)
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-- 🔭 Atualmente no 3º semestre de Ciência da Computação.
-- 🌱 Estudando profundamente **React e Supabase**.
-- ⚡ Curiosidade: Fui líder da equipe de robótica de 2024 da minha escola (E.E. Profº Amilcare Mattei), onde conseguimos chegar na etapa estadual da OBR e passamos para a etapa nacional da TBR, no qual infelizmente não conseguimos participar.
+- 🔭 Atualmente cursando o **3º semestre** de Ciência da Computação.
+- 🌱 Focado em aperfeiçoar meus conhecimentos em **React** e **Supabase**.
+- ⚡ **Curiosidade:** Fui líder da equipe de robótica em 2024 na E.E. Profº Amilcare Mattei. Liderança que nos levou à etapa estadual da OBR e à classificação para a etapa nacional da TBR (da qual, infelizmente, fomos impossibilitados de participar).
 
 ---
 
 ### 🛠 Toolbox (Tecnologias e Ferramentas)
-
-Linguagens e ferramentas que domino atualmente
 
 | Categoria | Tecnologias |
 | :--- | :--- |
@@ -26,24 +24,13 @@ Linguagens e ferramentas que domino atualmente
 
 ### 🚀 Projeto em Destaque
 
-| Projeto | Descrição | Deploy/Link |
+| Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-| **Plataforma educacional de robótica** | Plataforma gratuita que visa democratizar o acesso de ensino de robótica  programação no geral | [Acessar Projeto 🔗](https://plataforma-athena-lab-react.vercel.app/) |
-
----
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlexandreShiotuki&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AlexandreShiotuki&layout=compact&langs_count=7&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreShiotuki&theme=radical" />
-</p>
+| **Plataforma de Robótica** | Plataforma gratuita que visa democratizar o acesso ao ensino de robótica e programação em geral. | [Acessar Projeto 🔗](COLOQUE_O_LINK_AQUI) |
 
 ---
 
 ### 📫 Vamos Conversar?
 
-* **LinkedIn:** https://br.linkedin.com/in/alexandre-shiotuki-bb20a3240
-* **E-mail:** alexandreshiotuki100@gmail.com
+* **LinkedIn:** [alexandre-shiotuki](https://br.linkedin.com/in/alexandre-shiotuki-bb20a3240)
+* **E-mail:** [alexandreshiotuki100@gmail.com](mailto:alexandreshiotuki100@gmail.com)
