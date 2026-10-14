@@ -27,7 +27,7 @@
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-| **Plataforma de Robótica** | Plataforma gratuita que visa democratizar o acesso ao ensino de robótica e programação em geral. | [Acessar Projeto 🔗](COLOQUE_O_LINK_AQUI) |
+| **Plataforma de Robótica** | Plataforma gratuita que visa democratizar o acesso ao ensino de robótica e programação em geral. | [Acessar Projeto 🔗](https://plataforma-athena-lab-react.vercel.app/) |
 
 ---
 
