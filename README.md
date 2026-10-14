@@ -1,4 +1,4 @@
-# Olá, eu sou o Alexandre Shiotuki! 👋
+# Olá, eu sou o Alexandre Shiotuki! 
 
 ### 🎓 Estudante de Ciência da Computação na UNESP (IBILCE)
 
@@ -6,13 +6,13 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🔭 Atualmente cursando o **3º semestre** de Ciência da Computação.
-- 🌱 Focado em aperfeiçoar meus conhecimentos em **React** e **Supabase**.
-- ⚡ **Curiosidade:** Fui líder da equipe de robótica em 2024 na E.E. Profº Amilcare Mattei. Liderança que nos levou à etapa estadual da OBR e à classificação para a etapa nacional da TBR (da qual, infelizmente, fomos impossibilitados de participar).
+- Atualmente cursando o **4º semestre** de Ciência da Computação.
+- Focado em aperfeiçoar meus conhecimentos em **React** e **Supabase**.
+- **Curiosidade:** Fui líder da equipe de robótica em 2024 na E.E. Profº Amilcare Mattei. Liderança que nos levou à etapa estadual da OBR e à classificação para a etapa nacional da TBR (da qual, infelizmente, fomos impossibilitados de participar).
 
 ---
 
-### 🛠 Toolbox (Tecnologias e Ferramentas)
+### Toolbox (Tecnologias e Ferramentas)
 
 <p align="center">
   <a href="https://skillicons.dev"><p align="center">
@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 Projeto em Destaque
+### Projeto em Destaque
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
@@ -31,7 +31,7 @@
 
 ---
 
-### 📫 Vamos Conversar?
+### Vamos Conversar?
 
 * **LinkedIn:** [alexandre-shiotuki](https://br.linkedin.com/in/alexandre-shiotuki-bb20a3240)
 * **E-mail:** [alexandreshiotuki100@gmail.com](mailto:alexandreshiotuki100@gmail.com)
